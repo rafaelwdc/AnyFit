@@ -265,4 +265,7 @@ main {
 .iconesRedes > img {
     height: 50px;
 }
-
+.img {
+    display: flex;
+    flex-direction: row;
+}
